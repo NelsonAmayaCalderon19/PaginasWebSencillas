@@ -1,0 +1,39 @@
+
+h1{
+	background: white;
+    width: 300px;
+    border: 4px dashed #20bcd5;
+    padding: 10px;
+    font-family: algerian;
+	color: red;
+	
+}
+p{
+	color: 5880D6;
+	background: white;
+	width: 600px;
+	border: 4px dashed #D6585E;
+    padding: 10px;
+}
+img{
+	color: crimson;
+}
+input{
+	color: blue;
+	width: 100px;
+	height: 60px;
+	background: red;
+	border: 4px dashed #FFFFFF;
+	font-size: 13pt;
+	font-family: Arial;
+
+}
+.imgRedonda {
+    border-radius:150px;
+    border: 3px solid #666;
+}
+.imgesquinas{
+	border-radius: 20px ;
+	
+
+}
